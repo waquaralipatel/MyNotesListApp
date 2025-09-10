@@ -66,7 +66,7 @@ function App() {
       <Navbar />
       <div className="NoteContainer flex flex-col bg-[#534e6d] w-full h-200 md:w-[70vw] md:h-[75vh] md:m-auto md:my-5 md:border-2 md:border-[#251f46] md:rounded-lg text-white overflow-y-auto">
         <div className="Notes-manage-div w-full mb-2">
-          <h1 className='text-2xl font-bold text-center p-2 text-white'>NoteBook-Manager Your Notes</h1>
+          <h1 className='text-2xl font-bold text-center p-2 text-white'>NoteBook-Manage Your Notes</h1>
         </div>
         <div className="input flex justify-between p-1">
           <input onChange={handleChange} value={Note} type="text" placeholder='Enter Your Note' className='w-full h-8' />
