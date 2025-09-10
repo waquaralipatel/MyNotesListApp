@@ -20,16 +20,16 @@ This project helps users to manage their notes and tasks in a clean and responsi
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page – Add & View Notes
-![Home](./assets/screenshots/screenshot1.png)
+![Home](./src/assets/screenshots/screenshot1.png)
 
 ### ✅ Managing Tasks – Completed & Active
-![Completed Tasks](./assets/screenshots/screenshot2.png)
+![Completed Tasks](./src/assets/screenshots/screenshot2.png)
 
 ### 📂 My Notes Section
-![My Notes](./assets/screenshots/screenshot3.png)
+![My Notes](./src/assets/screenshots/screenshot3.png)
 
 ### ✍️ Adding New Notes
-![Add Notes](./assets/screenshots/screenshot4.png)
+![Add Notes](./src/assets/screenshots/screenshot4.png)
 
 ---
 
