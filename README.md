@@ -20,16 +20,16 @@ This project helps users to manage their notes and tasks in a clean and responsi
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page – Add & View Notes
-![Home](assets/screenshots/screenshot1.png)
+![Home](./assets/screenshots/screenshot1.png)
 
 ### ✅ Managing Tasks – Completed & Active
-![Completed Tasks](./screenshot2.png)
+![Completed Tasks](./assets/screenshots/screenshot2.png)
 
 ### 📂 My Notes Section
-![My Notes](./screenshot3.png)
+![My Notes](./assets/screenshots/screenshot3.png)
 
 ### ✍️ Adding New Notes
-![Add Notes](./screenshot4.png)
+![Add Notes](./assets/screenshots/screenshot4.png)
 
 ---
 
@@ -79,5 +79,3 @@ npm install
 
 # Run the development server
 npm start
-
-
